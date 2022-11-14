@@ -22,7 +22,7 @@ t=0→t=2π
 			Rα(A) = (x.cosα- y.sinα ,x.sinα+ y.cosα)
       
 ##input
-![](https://github.com/hasanfirat/rov_circle_detect/blob/main/u.png)
+![](https://github.com/spacemonochrome/rov_circle_detect/blob/main/u.png)
 
 ##output
-![](https://github.com/hasanfirat/rov_circle_detect/blob/main/cikti.png)
+![](https://github.com/spacemonochrome/rov_circle_detect/blob/main/cikti.png)
